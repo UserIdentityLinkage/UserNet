@@ -7,7 +7,7 @@ This repository contains the implementation of `User Identity Linkage across Soc
 * Numpy 1.16.4
 
 # Usage:
-* Download the dataset and unzip it into `data` folder. 
+* Download the dataset(https://drive.google.com/drive/folders/1ZPyST2mzwS_X6iegCkwUJm2T3tc5p-Yf?usp=sharing). 
 * Train and evaluate the model: 
 ```Python
 python Time-M2M-Thread.py
